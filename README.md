@@ -1,6 +1,5 @@
 # Hey, I'm Azamatjon 
 
-> *I build backend systems that work in production, not just on my laptop.*
 
 I'm a business student based in **South Korea** 🇰🇷, wrapping up my senior year at Busan University of Foreign Studies — with a serious focus on **backend development, API design, and database-driven applications**.
 
