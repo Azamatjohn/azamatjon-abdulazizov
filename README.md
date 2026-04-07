@@ -1,4 +1,4 @@
-# Hey, I'm Azamatjon 👋
+# Hey, I'm Azamatjon 
 
 > *I build backend systems that work in production, not just on my laptop.*
 
@@ -60,4 +60,3 @@ A full-stack book review and social cataloguing app inspired by Goodreads.
 
 ---
 
-*I don't freeze when something breaks. I track it down and fix it.*
